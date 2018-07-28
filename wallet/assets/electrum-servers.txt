@@ -1,0 +1,1 @@
+tcp:electrum.jadepay.siampm.com

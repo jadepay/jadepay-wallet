@@ -1,0 +1,36 @@
+Χρησιμοποιήστε το με δική σας ευθύνη! (Απαιτεί Android 4 ή μεταγενέστερο)
+
+<b>Μεταφέρετε τα Jadepay πάντα μαζί σας, στην τσέπη σας!</b>Πληρώστε σκανάροντας ένα QR code. Ως έμπορος, μπορείτε να λάβετε γρήγορες και ασφαλείς πληρωμές. Το Jadepay Wallet είναι η πρώτη mobile Jadepay app και σίγουρα η πιό ασφαλής!
+
+<b>ΧΑΡΑΚΤΗΡΙΣΤΙΚΑ</b>
+
+•Δεν χρειάζεται εγγραφή, web service ή cloud! Το πορτοφόλι αυτό είναι και αποκεντρωμένο και peer to peer.
+• Προβολή του ποσού των Jadepay σε JADEPAY, mJADEPAY και μJADEPAY.
+• Μετατροπή από και σε εθνικά νομίσματα.
+• Στείλτε και παραλάβετε Jadepay μέσω NFC, QR codes ή Jadepay URLs.
+• Βιβλίο διευθύνσεων για διευθύνσεις Jadepay που χρησιμοποιούνται συχνά.
+• Όταν είστε offline, μπορείτε να πληρώσετε μέσω Bluetooth.
+• System notification για παραληφθέντα νομίσματα.
+• Sweeping για χάρτινα πορτοφόλια (πχ αυτά που χρησιμοποιούνται για cold storage).
+• App widget για το υπόλοιπο σε Jadepay.
+
+
+<b>CONTRIBUTE</b>
+
+Το Jadepay Wallet είναι <b>open source</b>και <b>δωρεάν εφαρμογή</b>. Άδεια: GPLv3
+https://www.gnu.org/licenses/gpl-3.0.en.html
+
+Το source code είναι διαθέσιμο στο GitHub:
+https://github.com/HashEngineering/jadepay-wallet
+
+Όλες οι μεταφράσεις γίνονται μέσω Transifex:
+https://www.transifex.com/jadepay/jadepay-wallet/
+
+Μπορείτε να βρέιτε περισσότερες πληροφορίες για το Jadepay στο
+https://www.jadepay.org/
+
+<b>TESTIMONIALS</b>
+
+• Προτεινόμενο mobile wallet από το https://www.jadepay.org
+
+<i>Χρησιμοποιήστε το με δική σας ευθύνη!</i>

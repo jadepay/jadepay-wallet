@@ -1,0 +1,36 @@
+﻿Use at your own risk! (Requires Android 4 or higher)
+
+<b>Have your Jadepay always with you, in your pocket!</b> You pay by quickly scanning a QR code. As a merchant, you receive payments reliably and instantly. Jadepay Wallet is the first mobile Jadepay app, and arguably also the most secure!
+
+<b>FEATURES</b>
+
+• No registration, web service or cloud needed! This wallet is de-centralized and peer to peer.
+• Display of Jadepay amount in JADEPAY, mJADEPAY and µJADEPAY.
+• Conversion to and from national currencies.
+• Sending and receiving of Jadepay via NFC, QR codes or Jadepay URLs.
+• Address book for regularly used Jadepay addresses.
+• When you're offline, you can still pay via Bluetooth.
+• System notification for received coins.
+• Sweeping of paper wallets (e.g. those used for cold storage).
+• App widget for Jadepay balance.
+
+
+<b>CONTRIBUTE</b>
+
+Jadepay Wallet is <b>open source</b> and <b>free software</b>. License: GPLv3
+https://www.gnu.org/licenses/gpl-3.0.en.html
+
+Our source code is available at GitHub:
+https://github.com/HashEngineering/jadepay-wallet
+
+All translations are managed via Transifex:
+https://www.transifex.com/jadepay/jadepay-wallet/
+
+You can find more about Jadepay at
+https://www.jadepay.org/
+
+<b>TESTIMONIALS</b>
+
+• A recommended mobile wallet by https://www.jadepay.org
+
+<i>Use at your own risk!</i>

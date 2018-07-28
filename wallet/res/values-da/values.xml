@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+
+	<string-array name="preferences_precision_labels">
+		<item>JADEPAY, 8 decimaler</item>
+		<item>JADEPAY, 6 decimaler</item>
+		<item>JADEPAY, 4 decimaler</item>
+		<item>mJADEPAY, 2 decimaler</item>
+		<item>µJADEPAY, uden decimaler</item>
+	</string-array>
+
+</resources>

@@ -1,0 +1,36 @@
+Riskin size ait olduğunu bilerek kullanın! (Android 4 veya üstünü gerektirir)
+
+<b>Jadepay'iniz hep sizinle olsun, cebinizde!</b> QR kodunu tarayarak hızlıca ödeme yapabilir. Tacir olarak, ödemelerinizi anında ve güvenilir bir şekilde alabilirsiniz. Jadepay Wallet ilk mobil Jadepay uygulamasıdır, ve muhtemelen en güvenilir olanıdır!
+
+<b>ÖZELLİKLER</b>
+
+• Kayıt, web hizmeti, veya bulut gerektirmez! Bu cüzdan eşler arası ve merkezi olmayan bir cüzdandır.
+• Jadepay miktarını JADEPAY, mJADEPAY ve µJADEPAY olarak görüntüle.
+• Ulusal para birimlerine ve ulusal para birimlerinden dönüştürme.
+• NFC, QR kodları veya Jadepay URL'leri vasıtasıyla Jadepay gönderimi ve alımı.
+• Sürekli kullanılan Jadepay adresleri için adres rehberi.
+• Çevrimdışıyken bile, Bluetooth vasıtasıyla ödeme yapabilirsiniz.
+• Gelen paralar için sistem bildirimleri.
+• Kağıt cüzdanların taranması (örn. soğuk depolama için kullanılan)
+• Jadepay bakiyesi için uygulama widget'i.
+
+
+<b>KATKIDA BULUN</b>
+
+Jadepay Wallet <b>açık kaynak kodlu</b> <b>ücretsiz bir yazılımdır</b>. Lisans: GPLv3
+https://www.gnu.org/licenses/gpl-3.0.en.html
+
+Kaynak kodumuz GitHub'da mevcuttur:
+https://github.com/HashEngineering/jadepay-wallet
+
+Tüm çeviriler Transifex aracılığıyla yönetilmektedir:
+https://www.transifex.com/jadepay/jadepay-wallet/
+
+Jadepay hakkında daha fazlası için
+https://www.jadepay.org/
+
+<b>REFERANSLAR</b>
+
+• https://www.jadepay.org tarafından tavsiye edilen bir mobil cüzdan
+
+<i>Riskin size ait olduğunu bilerek kullanın!</i>

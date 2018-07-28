@@ -1,0 +1,36 @@
+<b>Pidä Jadepayisi aina mukana taskussasi!</b> Voit maksaa nopeasti skannaamalla QR-koodin. Kauppiaana saat maksut turvallisesti ja välittömästi. Jadepay Wallet on ensimmäinen Jadepay-mobiilisovellus ja luultavimmin myös kaikista turvallisin!
+
+
+<b>OMINAISUUDET</b>
+
+• Ei vaadi rekisteröintiä, verkkopalveluja tai pilvitallennusta! Tämä lompakko on hajautettu ja suorayhteyksinen.
+• Mahdollisuus näyttää Jadepay-varat määrissä JADEPAY, mJADEPAY ja µJADEPAY.
+• Yksikkömuunnos valtioiden valuuttojen välillä.
+• Jadepayien lähettäminen ja vastaanottaminen NFC, QR-koodien tai Jadepay-URL-osotteiden avulla.
+• Osoitekirja säännöllisesti käytettyjä Jadepay-osoitteita varten.
+• Kun et ole verkkoyhteyden ulottuvilla, voit silti maksaa Bluetoothin välityksellä.
+• Järjestelmän ilmoitus vastaanotetuille Jadepayeille.
+• Paperisen lompakon pyyhkäisymahdollisuus (esim. näitä käytetään "kylmissä varastoissa").
+• Android-sovellus Jadepay-varojen hallintaan.
+
+
+<b>OSALLISTU</b>
+
+Jadepay Wallet on <b>avointa lähdekoodia</b> ja <b>vapaa ohjelmisto</b>. Lisenssi: GPLv3
+https://www.gnu.org/licenses/gpl-3.0.en.html
+
+Lähdekoodi saatavilla GitHub:sta:
+https://github.com/HashEngineering/darkcoin-wallet
+
+Kaikki käännökset on hallinnoitu Transifex:n kautta:
+https://www.transifex.com/jadepay/jadepay-wallet/
+
+
+<b>SUOSITTELUMME</b>
+
+• Useat mobiililompakot perustuvat Bitcoin Wallet-ohjelman lähdekoodiin, esimerkiksi: blockchain.info ja BTCX.
+• https://jadepay.org: suosittelema mobiililompakko
+• BitPay:n suosittelema.
+
+
+<i>Käytä omalla vastuulla!</i>

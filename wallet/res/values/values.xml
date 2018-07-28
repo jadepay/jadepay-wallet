@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="symbol_to">→</string>
+	<string name="symbol_from">←</string>
+	<string name="symbol_internal">⇄</string>
+	<string name="app_name">Jadepay Wallet</string>
+	<string name="app_name_short">Jadepay</string>
+
+	<string-array name="preferences_precision_values">
+		<item>8</item>
+		<item>6</item>
+		<item>4</item>
+		<item>2/3</item>
+		<item>0/6</item>
+	</string-array>
+	<string-array name="preferences_precision_labels">
+		<item>@string/preferences_precision_labels_8</item>
+		<item>@string/preferences_precision_labels_6</item>
+		<item>@string/preferences_precision_labels_4</item>
+		<item>@string/preferences_precision_labels_2_3</item>
+		<item>@string/preferences_precision_labels_0_6</item>
+	</string-array>
+	<string-array name="preferences_block_explorer_values">
+		<item>http://explorer.jadepay.org/</item>
+		<item>http://explorer.jadepay.qa/</item>
+		<item>https://bitinfocharts.com/jadepay/</item>
+	</string-array>
+	<string-array name="preferences_block_explorer_labels">
+		<item>Jadepay Block Explorer (Official)</item>
+		<item>Jadepay Block Explorer (Mirror)</item>
+		<item>BitinfoCharts</item>
+	</string-array>
+	<string-array name="preferences_block_explorer_values_testnet">
+		<item>http://test.explorer.jadepay.org/</item>
+		<item>http://test.explorer.jadepayninja.pl/</item>
+	</string-array>
+	<string-array name="preferences_block_explorer_labels_testnet">
+		<item>Jadepay Block Explorer (Official Testnet)</item>
+		<item>Jadepay Ninja</item>
+	</string-array>
+
+</resources>

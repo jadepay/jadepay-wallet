@@ -1,0 +1,21 @@
+Dengan aplikasi ini Anda selalu mempunyai Jadepay dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). Jadepay Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
+
+FITUR:
+
+• Tidak diperlukan server awan atau layanan web! Dompet ini benar-benar peer ke peer.
+• Tampilkan saldo dompet dalam Jadepay dan mata uang lainnya.
+• Mengirim dan menerima Jadepay via NFC, kode-QR atau Tautan Jadepay.
+• Buku alamat untuk alamat penggunaan Jadepay secara reguler.
+• Masukkan transaksi saat offline, akan dilaksanakan ketika online.
+• Notifikasi sistem untuk konektivitas Jadepay dan menerima koin.
+• Widget Apl untuk saldo Jadepay.
+
+Anda dapat mengetahui lebih mengenai Jadepay di
+http://darkcoin.io
+
+Jika Anda ingin berkontribusi kepada Jadepay Wallet, proyeknya berada di
+https://github.com/HashEngineering/darkcoin-wallet
+
+Lisensi: GPLv3
+Gunakan dengan resiko Anda!
+http://www.gnu.org/licenses/gpl-3.0.en.html
